@@ -25,35 +25,55 @@ export default function Step4Activities({
     {
       id: '🛍️ Shopping',
       title: 'Shopping 🛍️',
-      desc: 'Let’s go retail therapy together! Pick out cute outfits for each other.',
+      desc: '',
     },
     {
       id: '🚘 Car Ride',
       title: 'Car Ride 🚘',
-      desc: 'Just drive, sing our favorite tracks at top volume, and vibe with sunset/night views.',
+      desc: '',
     },
     {
       id: '🎳 Bowling',
       title: 'Bowling 🎳',
-      desc: 'A little competitive fun! Winner gets a sweet forehead kiss.',
+      desc: '',
     },
     {
       id: '☕ Cafe Hopping',
       title: 'Cafe Hopping ☕',
-      desc: 'Explore gorgeous aesthetics, sip hot matcha, and take lovely photos.',
+      desc: '',
     },
   ];
 
   const homeActivities = [
     {
-      id: '🎬 Movie Night',
-      title: 'Movie Night 🎬',
-      desc: '', // Empty
+      id: '🎬 Watch Movies',
+      title: 'Watch Movies 🎬',
+      desc: '',
     },
     {
-      id: '🎮 Game Night',
-      title: 'Game Night 🎮',
-      desc: '', // Empty
+      id: '🎮 Play Games',
+      title: 'Play Games 🎮',
+      desc: '',
+    },
+    {
+      id: '✨ Spend Time Together',
+      title: 'Spend Time Together ✨',
+      desc: '',
+    },
+    {
+      id: '💋 Sex',
+      title: 'Sex 💋',
+      desc: '',
+    },
+    {
+      id: '🍳 Make Food',
+      title: 'Make Food 🍳',
+      desc: '',
+    },
+    {
+      id: '💤 Sleep',
+      title: 'Sleep 💤',
+      desc: '',
     },
   ];
 
